@@ -23,7 +23,11 @@ namespace PA1_4
         public void doStuff( )
         {
             // Do your work below
-
+    Console.WriteLine ("Converting Celsius to Fehrenheit");
+     float C = Convert.ToSingle(Console.ReadLine());
+     float F = (C * 1.8f) + 32;
+     Console.WriteLine($"input:  {C} ");
+     Console.WriteLine($"Output: {F} ");
         }
     }
 }

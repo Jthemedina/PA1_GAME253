@@ -14,7 +14,7 @@ namespace PA1_1
     {
         public void doStuff( )
         {
-            Console.WriteLine("INSERT NAME");
+            Console.WriteLine("Jthemedium");
         }
     }
 }

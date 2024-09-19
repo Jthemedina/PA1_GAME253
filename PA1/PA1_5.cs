@@ -20,12 +20,12 @@ namespace PA1_5
     {
         public void doStuff( )
         {
-            /*
-            ConsoleWriteLine We're going on a trip in our favorite rocket ship
-            ConsoleWriteLine Zooming through the sky, Little Einsteins
-            ConsoleWriteLine Climb aboard, get ready to explore
-            ConsoleWriteLine There's so much to find, Little Einsteins
-            */
+            
+            Console.WriteLine ("We're going on a trip in our favorite rocket ship");
+            Console.WriteLine ("Zooming through the sky, Little Einsteins");
+            Console.WriteLine ("Climb aboard, get ready to explore");
+            Console.WriteLine ("There's so much to find, Little Einsteins");
+            
         }
     }
 }
