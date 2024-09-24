@@ -16,7 +16,7 @@ namespace PA1_3
     {
         public void doStuff( )
         {
-
+/*
             Console.WriteLine("Are you ready, kids?");
             Console.WriteLine("Aye, aye, Captain");
             Console.WriteLine("I can't hear you");
@@ -33,7 +33,7 @@ namespace PA1_3
             Console.WriteLine("SpongeBob SquarePants");
             Console.WriteLine("SpongeBob SquarePants");
             Console.WriteLine("SpongeBob SquarePants");
-
+*/
             Console.WriteLine("No, this is Patrick!");
 
         }
